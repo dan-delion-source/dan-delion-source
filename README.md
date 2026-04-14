@@ -1,7 +1,7 @@
 #  Hey, I'm Daniel
 
  I love building stuff, experimenting with ideas, and exploring how things work under the hood.
-Most of my projects start with curiosity — *“what happens if I try this?”* — and end with me learning something new.
+Most of my projects start with curiosity *“what happens if I try this?”* and end with me learning something new.
 
 ---
 
